@@ -129,16 +129,16 @@ a.dotted-link:hover {
 
 .header .profile-image {
   margin-right: 30px;
-  border-radius: 50%;
-  height: 200px;
-  width: 200px;
+  border-radius: 10%;
+  height: 300px;
+  width: 300px;
 }
 
 .header .profile-content .name {
   color: #49515a;
   font-size: 38px;
   margin-bottom: 5px;
-  margin-top: 30px;
+  margin-top: 80px;
 }
 
 .header .profile-content .desc {
